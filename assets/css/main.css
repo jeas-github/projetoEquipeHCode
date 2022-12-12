@@ -325,6 +325,9 @@ body {
   border: 1px solid var(--red-auth);
   border-radius: 10px;
   font-size: 14px;
+  padding-top: 35px;
+  padding-left: 15px;
+  padding-bottom: 10px;
 }
 .band-forget .form-forget .field-forget label {
   position: absolute;
