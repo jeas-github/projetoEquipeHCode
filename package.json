@@ -1,0 +1,15 @@
+{
+  "name": "hburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass --watch assets/sass/main.scss:assets/css/main.css"
+  },
+  "keywords": [],
+  "author": "Equipe Vermelha",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.26.10"
+  }
+}
