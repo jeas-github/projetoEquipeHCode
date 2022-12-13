@@ -36,10 +36,10 @@
   --black-10: #0000001a;
   --black-50: rgba(0, 0, 0, .5);
   --black-75: #000000bf;
-  --black-band: #3A1C1C;
-  --black-background: #250303;
   --dark-0: #333;
   --dark-1: #000000BF;
+  --dark-band: #3A1C1C;
+  --dark-background: #250303;
   --gray: #79756C;
   --gray-0: #707070;
   --gray-1: #7E7E7E;
@@ -113,7 +113,7 @@ hr.divider {
 }
 #body-auth {
   position: relative;
-  background-color: var(--black-background);
+  background-color: var(--dark-background);
   background-image: url("../images/backgrond-mobile.png");
 }
 
@@ -134,7 +134,7 @@ hr.divider {
 
 .band-auth {
   min-width: 380px;
-  background-color: var(--black-band);
+  background-color: var(--dark-band);
   position: absolute;
   justify-content: center;
   width: 100vw;
@@ -250,7 +250,7 @@ hr.divider {
 }
 .band-forget {
   min-width: 380px;
-  background-color: var(--black-band);
+  background-color: var(--dark-band);
   position: absolute;
   justify-content: center;
   width: 100vw;
@@ -361,7 +361,7 @@ hr.divider {
 }
 .band-registration {
   min-width: 380px;
-  background-color: var(--black-band);
+  background-color: var(--dark-band);
   position: absolute;
   justify-content: center;
   width: 100vw;
